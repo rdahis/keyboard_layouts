@@ -5,7 +5,7 @@ To install them on a Mac, simply copy each file into "/Library/Keyboard Layouts/
 
 ### Esperanto - Colemak
 
-A simple Esperanto Colemak layout. Each special character is mapped with `option` and/or `Shift`.
+A simple Esperanto Colemak layout. Each special character is mapped with `option` and/or `shift`.
 
 ### Hebrew - Colemak
 
